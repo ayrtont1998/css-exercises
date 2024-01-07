@@ -1,0 +1,13 @@
+.okey {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.bro {
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+.sis {
+    background-color: hsl(59, 100%, 51%);
+}
